@@ -57,9 +57,3 @@ Edit
    npm run dev
    ```
 
-## Notes
-- Derived fields support a JS expression string (evaluated using `new Function('values', ...)`). For a production app use a safe expression evaluator.
-- Reordering of fields is not implemented with drag-and-drop to keep this scaffold small; you can add react-beautiful-dnd easily.
-
-## Deployment
-Build and deploy to Vercel or Netlify by connecting the GitHub repo and running `npm run build`.

@@ -1,4 +1,4 @@
-# Dynamic Form Builder (Assignment)
+# Dynamic Form Builder 
 
 This is a minimal working implementation of the Dynamic Form Builder assignment using:
 - React + TypeScript (Vite)
